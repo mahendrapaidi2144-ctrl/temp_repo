@@ -1,6 +1,6 @@
 public class Example {
     public static void main(String[] args) {
-        int a = 20;
+        int a = 600;
         int b = 5;
 
         System.out.println("Addition: " + (a + b));
